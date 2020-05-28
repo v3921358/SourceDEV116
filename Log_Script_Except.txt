@@ -1,0 +1,13 @@
+
+------------------------ 2019-08-17 10:23:38 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2019-08-17 10:23:39 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
+------------------------ 2019-08-17 10:23:39 ------------------------
+Error executing script. Path: scripts/event/PVP.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 1
+------------------------ 2019-08-17 10:23:39 ------------------------
+Error executing script. Path: scripts/event/GuildQuest.js
+Exception javax.script.ScriptException: ReferenceError: "importPackage" is not defined in <eval> at line number 5
